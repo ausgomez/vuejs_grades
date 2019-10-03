@@ -1,4 +1,4 @@
-# grades
+# Basic Grading System Using VUE JS
 
 ## Project setup
 ```
